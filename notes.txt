@@ -1,9 +1,9 @@
 ## Basic CLI commands
-- pwd -  Print the current working directory.
+- pwd - Print the current working directory.
 - ls - List files and directories in the current directory.
-- mkdir <directory> -  Create a new directory with the specified name. 
-- cd <directory> -  Change the current directory to the specified directory. 
-- man <command> -  show the manual pages for the command 
+- mkdir <directory> - Create a new directory with the specified name. 
+- cd <directory> - Change the current directory to the specified directory. 
+- man <command> - show the manual pages for the command 
 
 Examples: 
 mkdir new_folder
